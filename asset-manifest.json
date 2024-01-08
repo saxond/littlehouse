@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.90f0a072.css",
-    "main.js": "/static/js/main.29a58118.js",
+    "main.js": "/static/js/main.01720181.js",
     "static/media/littlehouse.jpg": "/static/media/littlehouse.05537404d2f00f1aaddc.jpg",
     "index.html": "/index.html",
     "main.90f0a072.css.map": "/static/css/main.90f0a072.css.map",
-    "main.29a58118.js.map": "/static/js/main.29a58118.js.map"
+    "main.01720181.js.map": "/static/js/main.01720181.js.map"
   },
   "entrypoints": [
     "static/css/main.90f0a072.css",
-    "static/js/main.29a58118.js"
+    "static/js/main.01720181.js"
   ]
 }
