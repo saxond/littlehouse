@@ -6,7 +6,6 @@ import {
   Link
 } from 'react-router-dom';
 import './App.css';
-import littlehouse from './littlehouse.jpg'
 import { googleLogout, useGoogleLogin } from '@react-oauth/google';
 import { setUser as setUserInLocal, getUser, removeUser } from "./user.ts";
 import type { User } from "./user.ts";

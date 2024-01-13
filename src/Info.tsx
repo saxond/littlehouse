@@ -1,4 +1,4 @@
-import { setUser as setUserInLocal, getUser, removeUser } from "./user.ts";
+import { getUser } from "./user.ts";
 
 export default function Info() {
     const user = getUser();
