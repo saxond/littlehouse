@@ -13,6 +13,11 @@
   }
 }
 
+.LHImage {
+  max-height: 1200px;
+  max-width: 1200px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
